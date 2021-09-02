@@ -22,8 +22,8 @@ function Card() {
             </figure>
           </div>
           <div className="media-content">
-            <p className="title is-4">John Smith</p>
-            <p className="subtitle is-6">@johnsmith</p>
+            <p className="title is-4">Armando García</p>
+            <p className="subtitle is-6">@armandopsi</p>
           </div>
         </div>
 
